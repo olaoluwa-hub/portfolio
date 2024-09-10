@@ -6,8 +6,6 @@ Hi! I'm Ola. I'm a data analyst who loves using data to help businesses grow. I 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
-
 **- ✅ Technical Skills**
 Advanced Excel | Power BI | Python | SQL
 
@@ -20,7 +18,7 @@ Data Cleaning and Preparation | Statistical Analysis | Data Interpretation | Pro
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**44 Underwood properties Sales Performance Analysis.**
 ![image](assets/car2.jpeg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
@@ -28,7 +26,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Branch Performance Analysis for Vintage Cars Ltd.**
 
 ![image](assets/agro.jpg)
 
