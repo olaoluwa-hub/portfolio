@@ -19,7 +19,7 @@ Data Cleaning and Preparation | Statistical Analysis | Data Interpretation | Pro
 *A glimpse of some of the projects I've been working on.*
 
 **44 Underwood properties Sales Performance Analysis.**
-![image](assets/car2.jpeg)
+assets/44 underwood dashboard.png
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
