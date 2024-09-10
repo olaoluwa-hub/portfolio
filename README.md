@@ -8,11 +8,11 @@ Hi! I'm Ola. I'm a data analyst who loves using data to help businesses grow. I 
 
 *As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**- ✅ Technical Skills**
+Advanced Excel | Power BI | Python | SQL
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- ✅ Analytical Skills**
+Data Cleaning and Preparation | Statistical Analysis | Data Interpretation | Problem Solving | Critical Thinking | Business Acumen
 
 
 <!--Section 2: List 3-4 key projects-->
