@@ -32,9 +32,7 @@ In August 2023, the owner of 44 Underwood Properties faced a pressing challenge:
 
 ![image](assets/beyond car Ltd dashboard.PNG)
 
-<div style="text-align: justify;">
 The mission was to provide an insightful business analysis for a leading car retail company operating across six states in Nigeria. The objective focused on evaluating branch performance in terms of sales, customer demographics, geography, and product.
-</div>
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
@@ -49,9 +47,9 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 ## MY EDUCATION
 
-Federal University Oye Ekiti								       		
-B.Eng. Computer Engineering
-Second Class Honors (Upper Division)			        		
+Federal University Oye Ekiti  								       		
+B.Eng. Computer Engineering  
+Second Class Honors (Upper Division) | [Certificate](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 
 <!--Section 3: This section is optional. You can replace this section with a list of your core skills-->
