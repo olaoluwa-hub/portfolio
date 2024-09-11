@@ -34,12 +34,12 @@ The mission was to provide an insightful business analysis for a leading car ret
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Analysis of Sales System Dynamics**
+**Predictive Modeling for Employee Retention**
 
-![image](assets/44 underwood dashboard.png)
+![image](assets/HR Attrition Dashboard.PNG)
 
 <div style="text-align: justify;">
-In August 2023, the owner of 44 Underwood Properties faced a pressing challenge: a noticeable decline in sales. This situation raised important questions about team performance and the root causes of the downturn. To uncover the answers, a thorough analysis was undertaken, revealing key insights that could significantly enhance their sales strategy.
+This project analyzes HR and employee data to identify predictors of attrition. The objective was to develop predictive models that help reduce turnover and improve employee retention.
 </div>
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
