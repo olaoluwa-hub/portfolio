@@ -18,21 +18,23 @@ Data Cleaning & Preparation | Predictive Modelling & Statistical Analysis | Data
 
 *A glimpse of some of the projects I've been working on.*
 
-**Analysis of Sales System Dynamics.**
+**Analysis of Sales System Dynamics**
 
 ![image](assets/44 underwood dashboard.png)
 
 <div style="text-align: justify;">
 In August 2023, the owner of 44 Underwood Properties faced a pressing challenge: a noticeable decline in sales. This situation raised important questions about team performance and the root causes of the downturn. To uncover the answers, a thorough analysis was undertaken, revealing key insights that could significantly enhance their sales strategy.
-</div>div>
+</div>
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Branch Performance Analysis for Vintage Cars Ltd.**
+**Branch Performance Analysis for Beyond Cars Ltd.**
 
-![image](assets/44 underwood dashboard.png)
+![image](assets/beyond car Ltd dashboard.PNG)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+<div style="text-align: justify;">
+The mission was to provide an insightful business analysis for a leading car retail company operating across six states in Nigeria. The objective focused on evaluating branch performance in terms of sales, customer demographics, geography, and product.
+</div>
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
@@ -45,18 +47,15 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 
-## MY CLASSES
-![image](assets/class.jpg)
-*Call my admin for details about the classes: 08034730987.*
+## MY EDUCATION
 
-- Settings | One-on-One, Group, Communities.								       		
-- Platforms	| Physical or Virtual, Weekday or Weekend. 			        		
-- Courses | Advanced Excel, Statistics, Power BI, SQL, Tableau, Python.
+Federal University Oye Ekiti								       		
+B.Eng. Computer Engineering
+Second Class Honors (Upper Division)			        		
 
 
 <!--Section 3: This section is optional. You can replace this section with a list of your core skills-->
-## MY COURSES
-*You can get these courses today.*
+## MY CERTIFICATIONS
 
 **Performance Analysis**
 ![image](assets/418159415_10224996118350400_1790389732999386325_n.jpg)
@@ -78,15 +77,15 @@ In this course, you will learn how to analyze HR and employee data, including de
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:hammedolaoluwa969@gmail.com">hammedolaoluwa969@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 915-558-9725</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Oyo, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -94,9 +93,5 @@ In this course, you will learn how to analyze HR and employee data, including de
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://linkedin.com/in/etukanietie">My Daily LinkedIn Practices</a></td>
     </tr>
