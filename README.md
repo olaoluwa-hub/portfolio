@@ -19,7 +19,8 @@ Data Cleaning and Preparation | Statistical Analysis | Data Interpretation | Pro
 *A glimpse of some of the projects I've been working on.*
 
 **44 Underwood properties Sales Performance Analysis.**
-assets/44 underwood dashboard.png
+
+![image](assets/44 underwood dashboard.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -28,7 +29,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 **Branch Performance Analysis for Vintage Cars Ltd.**
 
-![image](assets/agro.jpg)
+![image](assets/44 underwood dashboard.png)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
