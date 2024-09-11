@@ -7,12 +7,10 @@ Hi! I'm Ola. I'm a data analyst who loves using data to help businesses grow. I 
 ## SKILLS
 
 **✅ Technical Skills**
-
 Advanced Excel | Power BI | Python | SQL
 
 **✅ Analytical Skills**
-
-Data Cleaning and Preparation | Statistical Analysis | Data Interpretation | Problem Solving | Critical Thinking | Business Acumen
+Data Cleaning & Preparation | Predictive Modelling & Statistical Analysis | Data Analysis & Interpretation | Data Visualization & Dashboard Creation
 
 
 <!--Section 2: List 3-4 key projects-->
@@ -20,7 +18,7 @@ Data Cleaning and Preparation | Statistical Analysis | Data Interpretation | Pro
 
 *A glimpse of some of the projects I've been working on.*
 
-**44 Underwood properties Sales Performance Analysis.**
+**Analysis of Sales System Dynamics.**
 
 ![image](assets/44 underwood dashboard.png)
 
