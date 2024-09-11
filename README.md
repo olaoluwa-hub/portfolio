@@ -7,7 +7,6 @@ Hi! I'm Ola. I'm a data analyst who loves using data to help businesses grow. I 
 ## SKILLS
 
 **✅ Technical Skills**
-
 Advanced Excel | Power BI | Python | SQL
 
 **✅ Analytical Skills**
@@ -23,8 +22,7 @@ Data Cleaning & Preparation | Predictive Modelling & Statistical Analysis | Data
 
 ![image](assets/44 underwood dashboard.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
-
+In August 2023, the owner of 44 Underwood Properties faced a pressing challenge: a noticeable decline in sales. This situation raised important questions about team performance and the root causes of the downturn. To uncover the answers, a thorough analysis was undertaken, revealing key insights that could significantly enhance their sales strategy.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
