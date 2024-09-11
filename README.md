@@ -47,9 +47,9 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 ## MY EDUCATION
 
-Federal University Oye Ekiti  								       		
-B.Eng. Computer Engineering  
-Second Class Honors (Upper Division) | [Certificate](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+Federal University Oye Ekiti, Ekiti State, Nigeria  
+B.Eng. in Computer Engineering  
+Second Class Honors (Upper Division) | [Certificate](https://drive.google.com/file/d/164QECeWFPIa7Ome2VXdSVp8Dy26qdErQ/view?usp=sharing)
 
 
 <!--Section 3: This section is optional. You can replace this section with a list of your core skills-->
