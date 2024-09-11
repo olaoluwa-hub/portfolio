@@ -7,7 +7,7 @@ Hi! I'm Ola. I'm a data analyst who loves using data to help businesses grow. I 
 ## SKILLS
 
 **✅ Technical Skills**
-Advanced Excel | Power BI | Python | SQL
+**Advanced Excel** | **Power BI** | **Python** | **SQL**
 
 **✅ Analytical Skills**
 Data Cleaning & Preparation | Predictive Modelling & Statistical Analysis | Data Analysis & Interpretation | Data Visualization & Dashboard Creation
