@@ -6,10 +6,12 @@ Hi! I'm Ola. I'm a data analyst who loves using data to help businesses grow. I 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
 
-**- ✅ Technical Skills**
+**✅ Technical Skills**
+
 Advanced Excel | Power BI | Python | SQL
 
-**- ✅ Analytical Skills**
+**✅ Analytical Skills**
+
 Data Cleaning and Preparation | Statistical Analysis | Data Interpretation | Problem Solving | Critical Thinking | Business Acumen
 
 
