@@ -51,8 +51,7 @@ This project analyzes HR and employee data to identify predictors of attrition. 
 ## MY EDUCATION
 
 Federal University Oye Ekiti, Ekiti State, Nigeria  
-B.Eng. in Computer Engineering  
-Second Class Honors (Upper Division) | [Certificate](https://drive.google.com/file/d/164QECeWFPIa7Ome2VXdSVp8Dy26qdErQ/view?usp=sharing)
+B.Eng. Computer Engineering  (2014-2019) | [Certificate](https://drive.google.com/file/d/164QECeWFPIa7Ome2VXdSVp8Dy26qdErQ/view?usp=sharing)
 
 
 ## CONTACT DETAILS
@@ -71,10 +70,6 @@ Second Class Honors (Upper Division) | [Certificate](https://drive.google.com/fi
     <tr>
       <td>📍</td>
       <td>Oyo, Nigeria</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
