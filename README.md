@@ -17,7 +17,7 @@ Communication | Problem-Solving | Attention to detail | Collaboration | Time Man
 ## MY PORTFOLIO 
 *A glimpse of some of the projects I've been working on.*
 
-**Analysis of Sales System Dynamics**
+**Analysis of Sales System Dynamics for 44 Underwood Properties**
 
 ![image](assets/44 underwood dashboard.png)
 
@@ -27,7 +27,7 @@ In August 2023, the owner of 44 Underwood Properties faced a pressing challenge:
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Branch Performance Analysis for Beyond Cars Ltd.**
+**Branch Performance Analysis for Vintage Cars Ltd.**
 
 ![image](assets/beyond car Ltd dashboard.PNG)
 
