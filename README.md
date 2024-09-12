@@ -78,5 +78,5 @@ Second Class Honors (Upper Division) | [Certificate](https://drive.google.com/fi
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">My Daily LinkedIn Practices</a></td>
+      <td><a href="www.linkedin.com/in/hammedolaoluwa">My Daily LinkedIn Practices</a></td>
     </tr>
