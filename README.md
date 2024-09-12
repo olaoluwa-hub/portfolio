@@ -1,10 +1,8 @@
 ## ABOUT ME
-
 Hi! I'm Ola. I'm a data analyst who loves using data to help businesses grow. I have experience in sales, operations, finance, and customer service, and I enjoy solving problems to help companies succeed.
 
 
 ## SKILLS
-
 **✅ Technical Skills**  
 Advanced Excel | Power BI | Python | SQL
 
@@ -16,7 +14,6 @@ Communication | Problem-Solving | Attention to detail | Collaboration | Time Man
 
 
 ## MY PORTFOLIO 
-
 *A glimpse of some of the projects I've been working on.*
 
 **Analysis of Sales System Dynamics**
@@ -49,13 +46,11 @@ This project analyzes HR and employee data to identify predictors of attrition. 
 
 
 ## MY EDUCATION
-
 Federal University Oye Ekiti, Ekiti State, Nigeria  
 B.Eng. Computer Engineering  (2014-2019) | [Certificate](https://drive.google.com/file/d/164QECeWFPIa7Ome2VXdSVp8Dy26qdErQ/view?usp=sharing)
 
 
 ## CONTACT DETAILS
-
 *Let’s connect and see how we can make a difference together!*
 <table>
   <tbody>
