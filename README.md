@@ -11,6 +11,9 @@ Advanced Excel | Power BI | Python | SQL
 **✅ Analytical Skills**  
 Data Cleaning & Preparation | Predictive Modelling & Statistical Analysis | Data Analysis & Interpretation | Data Visualization & Dashboard Creation
 
+**✅ Soft Skills**  
+Communication | Problem-Solving | Attention to detail | Collaboration | Time Management | Critical Thinking  
+
 
 ## MY PORTFOLIO 
 
