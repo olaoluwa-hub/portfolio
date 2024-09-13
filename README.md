@@ -26,15 +26,6 @@ In August 2023, the owner of 44 Underwood Properties faced a pressing challenge:
 [View Project](https://mega.nz/folder/M51yBRSC#DDavrcSzbVPx1DtIIaLmQw)
 
 
-**Branch Performance Analysis for Vintage Cars Ltd.**
-
-![image](assets/beyond car Ltd dashboard.PNG)
-
-The mission was to provide an insightful business analysis for a leading car retail company operating across six states in Nigeria. The objective focused on evaluating branch performance in terms of sales, customer demographics, geography, and product.
-
-[View Project](https://mega.nz/folder/gkUyhSjA#cVFVth3XQ1o9EIP6SHwEYA)
-
-
 **Predictive Modeling for Employee Retention at DeckHT Company**
 
 ![image](assets/HR Attrition Dashboard.PNG)
@@ -43,6 +34,15 @@ The mission was to provide an insightful business analysis for a leading car ret
 This project analyzes HR and employee data to identify predictors of attrition. The objective was to develop predictive models that help reduce turnover and improve employee retention. 
 
 [View Project](https://mega.nz/folder/V9UzEICR#27VB46lKGQbqfNLVeUGr_w)
+
+
+**Branch Performance Analysis for Vintage Cars Ltd.**
+
+![image](assets/beyond car Ltd dashboard.PNG)
+
+The mission was to provide an insightful business analysis for a leading car retail company operating across six states in Nigeria. The objective focused on evaluating branch performance in terms of sales, customer demographics, geography, and product.
+
+[View Project](https://mega.nz/folder/gkUyhSjA#cVFVth3XQ1o9EIP6SHwEYA)
 
 
 ## MY EDUCATION
