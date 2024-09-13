@@ -21,10 +21,8 @@ Communication | Problem-Solving | Attention to detail | Collaboration | Time Man
 
 ![image](assets/44 underwood dashboard.png)
 
-<div style="text-align: justify;">
 In August 2023, the owner of 44 Underwood Properties faced a pressing challenge: a noticeable decline in sales. This situation raised important questions about team performance and the root causes of the downturn. To uncover the answers, a thorough analysis was undertaken, revealing key insights that could significantly enhance their sales strategy.
-</div>
-&nbsp;
+
 [View Project](https://(https://mega.nz/folder/FskUDKwT#MJ7LCyWO1klu9QgsOwJbPA)/)
 
 
