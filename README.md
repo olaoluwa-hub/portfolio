@@ -25,7 +25,7 @@ Communication | Problem-Solving | Attention to detail | Collaboration | Time Man
 In August 2023, the owner of 44 Underwood Properties faced a pressing challenge: a noticeable decline in sales. This situation raised important questions about team performance and the root causes of the downturn. To uncover the answers, a thorough analysis was undertaken, revealing key insights that could significantly enhance their sales strategy.
 </div>
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[View Project](https://(https://mega.nz/folder/FskUDKwT#MJ7LCyWO1klu9QgsOwJbPA)/)
 
 **Branch Performance Analysis for Vintage Cars Ltd.**
 
