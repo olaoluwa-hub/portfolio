@@ -39,11 +39,8 @@ The mission was to provide an insightful business analysis for a leading car ret
 ![image](assets/HR Attrition Dashboard.PNG)
 
 <div style="text-align: justify;">
-This project analyzes HR and employee data to identify predictors of attrition. The objective was to develop predictive models that help reduce turnover and improve employee retention.
+This project analyzes HR and employee data to identify predictors of attrition. The objective was to develop predictive models that help reduce turnover and improve employee retention. [[Read More]](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 </div>  
-
-  
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 
 ## MY EDUCATION
