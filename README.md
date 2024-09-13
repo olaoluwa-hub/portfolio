@@ -38,7 +38,7 @@ The mission was to provide an insightful business analysis for a leading car ret
 
 ![image](assets/HR Attrition Dashboard.PNG)
 
-<div style="text-align: justify;">
+
 This project analyzes HR and employee data to identify predictors of attrition. The objective was to develop predictive models that help reduce turnover and improve employee retention. [Read More](https://drive.google.com/file/d/164QECeWFPIa7Ome2VXdSVp8Dy26qdErQ/view?usp=sharing)
  
 
