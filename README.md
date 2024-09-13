@@ -21,7 +21,9 @@ Communication | Problem-Solving | Attention to detail | Collaboration | Time Man
 
 ![image](assets/44 underwood dashboard.png)
 
-In August 2023, the owner of 44 Underwood Properties faced a pressing challenge: a noticeable decline in sales. This situation raised important questions about team performance and the root causes of the downturn. To uncover the answers, a thorough analysis was undertaken, revealing key insights that could significantly enhance their sales strategy. [View Project](https://mega.nz/folder/FskUDKwT#MJ7LCyWO1klu9QgsOwJbPA)/)
+In August 2023, the owner of 44 Underwood Properties faced a pressing challenge: a noticeable decline in sales. This situation raised important questions about team performance and the root causes of the downturn. To uncover the answers, a thorough analysis was undertaken, revealing key insights that could significantly enhance their sales strategy.  
+
+[View Project](https://mega.nz/folder/M51yBRSC#DDavrcSzbVPx1DtIIaLmQw)
 
 
 **Branch Performance Analysis for Vintage Cars Ltd.**
@@ -30,15 +32,17 @@ In August 2023, the owner of 44 Underwood Properties faced a pressing challenge:
 
 The mission was to provide an insightful business analysis for a leading car retail company operating across six states in Nigeria. The objective focused on evaluating branch performance in terms of sales, customer demographics, geography, and product.
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[View Project](https://mega.nz/folder/gkUyhSjA#cVFVth3XQ1o9EIP6SHwEYA)
 
-**Predictive Modeling for Employee Retention**
+
+**Predictive Modeling for Employee Retention at DeckHT Company**
 
 ![image](assets/HR Attrition Dashboard.PNG)
 
 
-This project analyzes HR and employee data to identify predictors of attrition. The objective was to develop predictive models that help reduce turnover and improve employee retention. [Read More](https://drive.google.com/file/d/164QECeWFPIa7Ome2VXdSVp8Dy26qdErQ/view?usp=sharing)
- 
+This project analyzes HR and employee data to identify predictors of attrition. The objective was to develop predictive models that help reduce turnover and improve employee retention. 
+
+[View Project](https://mega.nz/folder/V9UzEICR#27VB46lKGQbqfNLVeUGr_w)
 
 
 ## MY EDUCATION
