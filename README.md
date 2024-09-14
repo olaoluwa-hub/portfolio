@@ -68,5 +68,5 @@ B.Eng. Computer Engineering  (2014-2019) | [Certificate](https://drive.google.co
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="www.linkedin.com/in/hammedolaoluwa">My Daily LinkedIn Practices</a></td>
+      <td><a href="https://linkedin.com/in/hammedolaoluwa">My Daily LinkedIn Practices</a></td>
     </tr>
