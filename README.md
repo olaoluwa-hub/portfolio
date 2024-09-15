@@ -1,5 +1,6 @@
 ## ABOUT ME
-Hi! I'm Ola. I'm a data analyst who loves using data to help businesses grow. I have experience in sales, operations, finance, and customer service, and I enjoy solving problems to help companies succeed.
+Hi! I'm Ola. I'm a data analyst. I help organizations make informed decisions by transforming their data into meaningful and actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+
 
 
 ## SKILLS
