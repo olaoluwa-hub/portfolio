@@ -1,5 +1,5 @@
 ## ABOUT ME
-Hi! I'm Ola. I'm a data analyst. I help organizations make informed decisions by transforming their data into meaningful and actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi! I'm Hammed Olaoluwa, a data analyst. I help organizations make informed decisions by transforming their data into meaningful and actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
 
 
 
